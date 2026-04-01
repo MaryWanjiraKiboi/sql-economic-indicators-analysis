@@ -23,6 +23,7 @@ This project analyses the growth in key economic indicators between 2020 and 202
 ## Files in this Project
 - queries.sql → contains all SQL queries
 - insights.md → contains analysis and findings
+- dataset
 
 ## Author
 Mary Wanjira
