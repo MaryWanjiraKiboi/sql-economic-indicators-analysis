@@ -1,0 +1,65 @@
+
+
+## 1. Absolute Growth Analysis
+
+The analysis of absolute growth shows that GDP at market prices recorded the highest increase between 2020 and 2024, followed by total domestic credit and money supply. This indicates strong overall economic expansion during the period, largely driven by financial and macroeconomic factors.
+
+Manufacturing and construction output recorded moderate growth, suggesting some improvement in the real economy, although at a slower pace compared to financial indicators.
+
+In contrast, education enrolment, employment, and other social indicators showed relatively small increases. This suggests that while the economy is growing, the benefits of this growth may not be evenly distributed across all sectors.
+
+Overall, the results indicate that economic growth is being driven primarily by a few key indicators, particularly within the financial sector.
+
+---
+
+## 2. Ranking Analysis
+
+The ranking analysis highlights the relative performance of each indicator based on absolute growth.
+
+GDP at market prices ranks first, followed by total domestic credit and money supply, confirming that these are the main drivers of growth. Manufacturing and construction fall in the middle range, indicating moderate sectoral development.
+
+Education and employment indicators rank among the lowest, showing that social sectors are lagging behind in terms of growth.
+
+This ranking suggests an imbalance where financial and macroeconomic indicators are outperforming both real sector and social indicators, pointing to uneven development across the economy.
+
+---
+
+## 3. Percentage Growth Analysis
+
+The percentage growth analysis provides insight into how fast each indicator has grown relative to its initial value.
+
+The results show that some smaller indicators, such as education (other post-secondary enrolment), trade balance, and manufacturing output, recorded the highest percentage increases. This indicates that these sectors are expanding more rapidly in relative terms.
+
+Although GDP also shows strong percentage growth, it does not dominate as much as it does in absolute terms. This highlights the difference between scale and growth rate.
+
+At the same time, indicators such as employment, petroleum consumption, and population show relatively low percentage growth, indicating slower expansion in these areas.
+
+Overall, this analysis demonstrates that while large sectors drive total growth, smaller sectors may be growing faster proportionally. This reinforces the importance of analysing both absolute and percentage changes to gain a complete understanding of economic performance.
+
+---
+
+## 4. Contribution to Total Growth Analysis
+
+The contribution analysis examines how much each indicator contributes to the overall growth between 2020 and 2024.
+
+The results show that GDP at market prices contributes over 50% of total growth, making it the dominant driver of economic expansion. Total domestic credit and money supply also contribute significantly, and together with GDP account for approximately 87% of total growth.
+
+This indicates a high concentration of growth within a few key indicators, particularly in the financial and macroeconomic sectors.
+
+In contrast, indicators such as education enrolment, employment, and electricity consumption contribute less than 1% each to total growth. This suggests that although these sectors may be growing, their overall impact on economic expansion is minimal.
+
+An important observation is that some indicators show high percentage growth but low contribution to total growth. This indicates that they are growing from a smaller base and therefore have limited overall impact.
+
+Overall, the analysis highlights a significant imbalance in growth distribution, where economic expansion is heavily concentrated in a few key areas rather than being broadly shared across all sectors.
+
+---
+
+## 5. Overall Conclusion
+
+The combined analysis of absolute growth, percentage growth, ranking, and contribution reveals a consistent pattern in the data.
+
+Economic growth between 2020 and 2024 is strong but uneven. Financial and macroeconomic indicators such as GDP, credit, and money supply are the primary drivers of expansion.
+
+While some smaller sectors show rapid percentage growth, their overall contribution remains limited. At the same time, social indicators such as education and employment lag behind in both growth and impact.
+
+This suggests that economic development during the period is concentrated and not fully inclusive, highlighting the need for more balanced growth across different sectors of the economy.
